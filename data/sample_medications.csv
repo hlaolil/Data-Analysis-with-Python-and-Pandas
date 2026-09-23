@@ -1,0 +1,1001 @@
+patient_id,medication,dose,unit,frequency,indication,start_date,duration_days,is_generic,adherence_pct
+P0000001,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-03-06,30,1,84.5
+P0000001,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2020-01-22,30,1,81.0
+P0000001,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2021-05-24,90,0,77.1
+P0000001,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2020-03-16,180,1,90.2
+P0000002,Metoprolol,25.0,mg,twice daily,hypertension,2018-12-21,365,1,100.0
+P0000002,Jardiance,10.0,mg,daily,type2_diabetes,2021-03-15,90,1,58.0
+P0000002,Albuterol,90.0,mcg,as needed,asthma,2019-11-23,90,1,50.9
+P0000002,Celecoxib,200.0,mg,daily,osteoarthritis,2020-12-01,90,1,82.1
+P0000003,Aspirin,81.0,mg,daily,coronary_artery_disease,2018-01-19,180,1,69.5
+P0000003,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2018-05-09,30,1,100.0
+P0000003,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2019-07-04,90,1,100.0
+P0000003,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2021-05-12,90,1,85.5
+P0000004,Losartan,50.0,mg,daily,hypertension,2019-01-12,90,1,79.3
+P0000004,Lisinopril,10.0,mg,daily,hypertension,2018-09-09,60,0,77.8
+P0000004,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-07-01,365,1,100.0
+P0000004,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-12-03,90,1,83.2
+P0000005,Losartan,50.0,mg,daily,hypertension,2019-03-20,365,1,82.8
+P0000005,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-02-04,30,1,87.2
+P0000005,Escitalopram,10.0,mg,daily,depression,2020-10-07,60,1,100.0
+P0000005,Levothyroxine,50.0,mcg,daily,hypothyroidism,2021-05-05,90,0,84.9
+P0000005,Fluticasone,110.0,mcg,twice daily,asthma,2021-03-03,90,0,81.8
+P0000005,Albuterol,90.0,mcg,as needed,asthma,2021-06-10,180,1,79.9
+P0000006,Losartan,50.0,mg,daily,hypertension,2021-01-22,60,1,95.9
+P0000006,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-08-02,60,1,61.8
+P0000006,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2021-01-03,60,1,88.8
+P0000006,Fluoxetine,20.0,mg,daily,depression,2021-04-27,90,1,83.7
+P0000007,Lisinopril,10.0,mg,daily,hypertension,2018-11-29,180,1,57.0
+P0000007,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-06-01,60,1,100.0
+P0000007,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-11-01,365,1,62.1
+P0000007,Buspirone,10.0,mg,twice daily,anxiety,2021-06-27,60,0,80.1
+P0000007,Sertraline,50.0,mg,daily,anxiety,2018-05-28,90,1,91.4
+P0000007,Albuterol,90.0,mcg,as needed,copd,2019-10-23,180,0,100.0
+P0000007,Tiotropium,18.0,mcg,daily,copd,2019-10-19,90,1,100.0
+P0000008,Lisinopril,10.0,mg,daily,hypertension,2020-09-09,90,1,60.9
+P0000008,Amlodipine,5.0,mg,daily,hypertension,2018-08-17,90,0,70.9
+P0000008,Jardiance,10.0,mg,daily,type2_diabetes,2018-04-16,60,1,69.3
+P0000008,Metoprolol,50.0,mg,twice daily,atrial_fibrillation,2019-07-18,90,1,73.4
+P0000008,Buspirone,10.0,mg,twice daily,anxiety,2018-09-14,30,1,100.0
+P0000008,Albuterol,90.0,mcg,as needed,copd,2021-04-27,90,1,45.5
+P0000009,Losartan,50.0,mg,daily,hypertension,2019-11-10,365,1,49.3
+P0000009,Lisinopril,10.0,mg,daily,hypertension,2019-08-18,180,0,100.0
+P0000009,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-05-12,180,1,78.8
+P0000009,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-11-14,60,1,77.1
+P0000009,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2018-04-15,60,1,58.0
+P0000009,Clopidogrel,75.0,mg,daily,coronary_artery_disease,2019-04-02,30,0,83.0
+P0000010,Losartan,50.0,mg,daily,hypertension,2018-09-07,60,0,100.0
+P0000010,Buspirone,10.0,mg,twice daily,anxiety,2018-11-24,180,0,75.8
+P0000011,Metoprolol,25.0,mg,twice daily,hypertension,2020-02-02,30,1,100.0
+P0000011,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-07-14,60,1,62.3
+P0000011,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-12-17,60,1,74.3
+P0000011,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2021-03-08,90,1,100.0
+P0000011,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2019-09-05,30,0,76.6
+P0000012,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-11-12,30,0,97.7
+P0000012,Clopidogrel,75.0,mg,daily,coronary_artery_disease,2020-02-26,90,1,68.4
+P0000012,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2021-04-28,30,1,96.6
+P0000012,Levothyroxine,50.0,mcg,daily,hypothyroidism,2019-04-06,90,0,68.4
+P0000012,Fluticasone,110.0,mcg,twice daily,asthma,2019-10-24,365,1,67.4
+P0000012,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2018-03-17,90,1,56.6
+P0000013,Amlodipine,5.0,mg,daily,hypertension,2018-05-24,365,0,66.1
+P0000013,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-08-14,180,0,75.8
+P0000014,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-05-15,30,0,100.0
+P0000014,Sertraline,50.0,mg,daily,depression,2018-11-27,365,1,66.2
+P0000014,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2018-10-09,60,0,77.6
+P0000014,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2020-10-23,60,1,96.1
+P0000015,Aspirin,81.0,mg,daily,coronary_artery_disease,2021-06-19,60,1,68.6
+P0000015,Sertraline,50.0,mg,daily,depression,2020-05-16,365,0,79.3
+P0000016,Lisinopril,10.0,mg,daily,hypertension,2020-01-15,180,1,100.0
+P0000016,Buspirone,10.0,mg,twice daily,anxiety,2019-09-27,30,1,76.6
+P0000016,Levothyroxine,50.0,mcg,daily,hypothyroidism,2019-12-09,90,0,100.0
+P0000016,Albuterol,90.0,mcg,as needed,copd,2021-04-23,90,1,100.0
+P0000016,Tiotropium,18.0,mcg,daily,copd,2019-07-30,365,1,88.1
+P0000016,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2020-01-31,90,0,71.6
+P0000016,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2018-04-23,180,1,74.7
+P0000017,Celecoxib,200.0,mg,daily,osteoarthritis,2020-03-13,180,1,94.5
+P0000018,Losartan,50.0,mg,daily,hypertension,2021-03-08,90,0,95.5
+P0000018,Metoprolol,25.0,mg,twice daily,hypertension,2018-03-25,60,1,73.1
+P0000018,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-01-08,180,1,84.3
+P0000018,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-12-19,90,1,99.2
+P0000019,Amlodipine,5.0,mg,daily,hypertension,2019-12-03,365,0,100.0
+P0000019,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-12-12,180,1,55.2
+P0000019,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-12-02,90,0,92.3
+P0000019,Celecoxib,200.0,mg,daily,osteoarthritis,2020-06-03,90,1,76.9
+P0000019,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2018-03-18,180,0,72.6
+P0000020,Clopidogrel,75.0,mg,daily,coronary_artery_disease,2018-02-06,180,1,61.6
+P0000020,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2020-06-30,90,1,100.0
+P0000021,Lisinopril,10.0,mg,daily,hypertension,2019-04-06,180,1,81.8
+P0000021,Glipizide,5.0,mg,daily,type2_diabetes,2018-01-01,60,1,61.1
+P0000021,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-01-06,90,1,88.3
+P0000021,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-10-22,30,0,82.9
+P0000021,Tiotropium,18.0,mcg,daily,copd,2019-04-09,180,1,83.9
+P0000022,Losartan,50.0,mg,daily,hypertension,2018-09-30,90,1,97.1
+P0000022,Lisinopril,10.0,mg,daily,hypertension,2018-05-15,365,1,84.7
+P0000022,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-12-17,90,0,72.4
+P0000022,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2020-08-03,60,0,85.7
+P0000022,Aspirin,81.0,mg,daily,coronary_artery_disease,2018-06-10,30,0,100.0
+P0000022,Metoprolol,50.0,mg,twice daily,atrial_fibrillation,2020-02-16,365,1,82.5
+P0000022,Warfarin,5.0,mg,daily,atrial_fibrillation,2018-02-05,180,1,62.1
+P0000023,Losartan,50.0,mg,daily,hypertension,2018-08-20,90,1,84.3
+P0000023,Lisinopril,10.0,mg,daily,hypertension,2018-05-05,30,1,57.4
+P0000023,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2018-11-01,180,1,100.0
+P0000023,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2021-02-13,180,1,94.4
+P0000024,Losartan,50.0,mg,daily,hypertension,2020-04-01,90,1,75.1
+P0000025,Glipizide,5.0,mg,daily,type2_diabetes,2018-09-21,60,0,87.6
+P0000025,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-12-26,30,1,100.0
+P0000025,Fluticasone,110.0,mcg,twice daily,asthma,2019-03-10,90,1,68.6
+P0000025,Albuterol,90.0,mcg,as needed,asthma,2020-10-09,180,0,84.9
+P0000026,Amlodipine,5.0,mg,daily,hypertension,2021-04-13,60,0,62.8
+P0000026,Glipizide,5.0,mg,daily,type2_diabetes,2020-11-03,180,1,65.1
+P0000026,Jardiance,10.0,mg,daily,type2_diabetes,2019-01-12,90,1,94.7
+P0000026,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-02-26,180,0,58.5
+P0000026,Tiotropium,18.0,mcg,daily,copd,2018-01-24,180,1,100.0
+P0000026,Celecoxib,200.0,mg,daily,osteoarthritis,2020-05-14,90,0,100.0
+P0000028,Losartan,50.0,mg,daily,hypertension,2020-10-26,180,0,94.7
+P0000028,Lisinopril,10.0,mg,daily,hypertension,2019-03-31,60,0,92.9
+P0000029,Fluoxetine,20.0,mg,daily,depression,2019-08-31,365,1,58.1
+P0000029,Fluticasone,110.0,mcg,twice daily,asthma,2019-04-14,30,1,47.9
+P0000029,Albuterol,90.0,mcg,as needed,copd,2020-12-14,365,1,100.0
+P0000029,Celecoxib,200.0,mg,daily,osteoarthritis,2018-07-28,365,0,100.0
+P0000029,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2019-01-17,365,1,60.8
+P0000030,Losartan,50.0,mg,daily,hypertension,2020-01-26,90,1,100.0
+P0000030,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-09-02,90,1,78.0
+P0000031,Losartan,50.0,mg,daily,hypertension,2018-11-24,90,1,100.0
+P0000031,Metoprolol,25.0,mg,twice daily,hypertension,2020-02-08,90,0,65.6
+P0000031,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-10-31,60,1,91.1
+P0000032,Amlodipine,5.0,mg,daily,hypertension,2020-04-22,90,1,74.5
+P0000032,Metoprolol,25.0,mg,twice daily,hypertension,2019-11-02,60,1,89.5
+P0000032,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-07-08,60,0,100.0
+P0000032,Fluticasone,110.0,mcg,twice daily,asthma,2019-01-14,60,1,100.0
+P0000032,Albuterol,90.0,mcg,as needed,asthma,2019-04-22,30,1,38.8
+P0000032,Celecoxib,200.0,mg,daily,osteoarthritis,2021-05-12,90,1,68.0
+P0000033,Amlodipine,5.0,mg,daily,hypertension,2019-02-23,180,1,100.0
+P0000033,Losartan,50.0,mg,daily,hypertension,2019-06-16,90,1,82.4
+P0000033,Sertraline,50.0,mg,daily,depression,2019-11-16,180,1,54.7
+P0000033,Albuterol,90.0,mcg,as needed,asthma,2018-07-06,30,0,64.0
+P0000033,Fluticasone,110.0,mcg,twice daily,asthma,2021-05-24,90,1,71.6
+P0000034,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2018-07-29,180,1,100.0
+P0000034,Celecoxib,200.0,mg,daily,osteoarthritis,2021-02-05,90,1,67.7
+P0000035,Metoprolol,25.0,mg,twice daily,hypertension,2018-06-28,180,1,74.2
+P0000035,Lisinopril,10.0,mg,daily,hypertension,2019-11-04,180,1,65.9
+P0000035,Ozempic,0.5,mg,weekly,type2_diabetes,2020-01-09,30,1,86.5
+P0000035,Metformin,500.0,mg,twice daily,type2_diabetes,2019-08-24,90,0,100.0
+P0000035,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-04-02,90,1,100.0
+P0000036,Metoprolol,25.0,mg,twice daily,hypertension,2020-06-13,90,1,84.6
+P0000036,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-08-10,60,1,68.4
+P0000037,Lisinopril,10.0,mg,daily,hypertension,2020-01-30,30,0,100.0
+P0000037,Amlodipine,5.0,mg,daily,hypertension,2020-08-24,30,1,92.1
+P0000037,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-05-07,180,1,86.9
+P0000037,Celecoxib,200.0,mg,daily,osteoarthritis,2019-01-21,90,1,48.7
+P0000037,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2021-02-25,30,1,66.0
+P0000038,Metoprolol,25.0,mg,twice daily,hypertension,2019-03-01,90,0,53.0
+P0000038,Losartan,50.0,mg,daily,hypertension,2019-04-06,60,1,67.0
+P0000038,Warfarin,5.0,mg,daily,atrial_fibrillation,2018-03-27,180,1,68.3
+P0000038,Apixaban,5.0,mg,twice daily,atrial_fibrillation,2020-09-07,60,1,84.4
+P0000038,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2018-11-05,90,0,59.9
+P0000039,Metoprolol,25.0,mg,twice daily,hypertension,2018-01-07,90,1,84.4
+P0000039,Losartan,50.0,mg,daily,hypertension,2018-02-11,90,1,80.9
+P0000039,Fluticasone,110.0,mcg,twice daily,asthma,2021-04-01,30,0,92.6
+P0000039,Celecoxib,200.0,mg,daily,osteoarthritis,2019-05-28,90,1,61.3
+P0000040,Lisinopril,10.0,mg,daily,hypertension,2020-11-27,90,0,98.1
+P0000040,Levothyroxine,50.0,mcg,daily,hypothyroidism,2019-07-03,60,1,76.8
+P0000040,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2018-10-27,90,1,41.1
+P0000041,Losartan,50.0,mg,daily,hypertension,2018-04-04,30,0,82.2
+P0000041,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-05-13,180,0,98.8
+P0000041,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-01-12,90,1,73.0
+P0000041,Albuterol,90.0,mcg,as needed,asthma,2021-02-21,30,1,64.2
+P0000041,Tiotropium,18.0,mcg,daily,copd,2021-06-24,60,1,100.0
+P0000041,Albuterol,90.0,mcg,as needed,copd,2020-04-04,365,1,97.0
+P0000041,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2020-12-24,180,0,34.5
+P0000042,Losartan,50.0,mg,daily,hypertension,2020-10-28,90,0,57.7
+P0000042,Fluoxetine,20.0,mg,daily,depression,2019-06-12,60,1,78.6
+P0000042,Sertraline,50.0,mg,daily,depression,2019-02-08,30,1,77.4
+P0000043,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-01-26,30,0,77.8
+P0000043,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-01-10,60,1,88.9
+P0000043,Celecoxib,200.0,mg,daily,osteoarthritis,2018-06-18,90,0,58.1
+P0000044,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2018-01-10,30,1,76.2
+P0000044,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2021-04-26,60,1,85.5
+P0000045,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-02-15,90,1,67.2
+P0000046,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-12-27,90,0,86.2
+P0000046,Levothyroxine,50.0,mcg,daily,hypothyroidism,2020-04-22,60,0,82.9
+P0000046,Albuterol,90.0,mcg,as needed,copd,2018-09-29,90,0,71.2
+P0000047,Lisinopril,10.0,mg,daily,hypertension,2018-01-19,90,0,74.0
+P0000047,Amlodipine,5.0,mg,daily,hypertension,2019-01-11,60,1,87.5
+P0000047,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-01-22,180,1,62.2
+P0000047,Buspirone,10.0,mg,twice daily,anxiety,2019-11-04,90,1,79.2
+P0000047,Sertraline,50.0,mg,daily,anxiety,2019-01-17,90,1,47.6
+P0000048,Metoprolol,25.0,mg,twice daily,hypertension,2020-02-05,90,1,64.7
+P0000048,Glipizide,5.0,mg,daily,type2_diabetes,2018-03-28,365,0,70.6
+P0000048,Metformin,500.0,mg,twice daily,type2_diabetes,2020-03-18,90,1,71.9
+P0000048,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-03-24,180,1,70.7
+P0000049,Lisinopril,10.0,mg,daily,hypertension,2018-01-21,180,1,83.3
+P0000050,Lisinopril,10.0,mg,daily,hypertension,2020-09-13,365,1,86.5
+P0000051,Losartan,50.0,mg,daily,hypertension,2021-04-07,180,1,100.0
+P0000051,Amlodipine,5.0,mg,daily,hypertension,2020-07-21,90,1,50.4
+P0000052,Fluoxetine,20.0,mg,daily,depression,2020-01-29,60,0,26.5
+P0000052,Sertraline,50.0,mg,daily,depression,2019-11-26,90,1,100.0
+P0000052,Buspirone,10.0,mg,twice daily,anxiety,2018-06-05,60,1,100.0
+P0000052,Sertraline,50.0,mg,daily,anxiety,2019-11-21,60,1,43.5
+P0000052,Fluticasone,110.0,mcg,twice daily,asthma,2020-07-23,60,1,88.1
+P0000053,Lisinopril,10.0,mg,daily,hypertension,2018-12-18,365,1,84.3
+P0000053,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2021-03-05,180,0,100.0
+P0000053,Buspirone,10.0,mg,twice daily,anxiety,2021-05-30,365,1,71.2
+P0000053,Sertraline,50.0,mg,daily,anxiety,2021-04-30,90,1,65.2
+P0000053,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2018-10-01,90,1,68.2
+P0000054,Lisinopril,10.0,mg,daily,hypertension,2018-02-28,365,1,82.6
+P0000054,Metoprolol,25.0,mg,twice daily,hypertension,2019-11-15,180,0,74.7
+P0000054,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-08-29,30,1,79.8
+P0000055,Amlodipine,5.0,mg,daily,hypertension,2018-11-30,365,1,47.5
+P0000055,Metoprolol,25.0,mg,twice daily,hypertension,2021-06-16,180,0,68.1
+P0000055,Jardiance,10.0,mg,daily,type2_diabetes,2018-11-18,60,1,71.6
+P0000055,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-07-09,365,0,100.0
+P0000055,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-06-30,60,1,91.0
+P0000055,Sertraline,50.0,mg,daily,anxiety,2019-01-26,60,1,67.6
+P0000055,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2018-08-22,90,0,71.7
+P0000055,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2018-06-20,90,0,81.4
+P0000056,Amlodipine,5.0,mg,daily,hypertension,2018-07-18,90,1,61.1
+P0000056,Metoprolol,25.0,mg,twice daily,hypertension,2020-06-03,30,1,96.0
+P0000056,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-06-12,60,0,92.1
+P0000056,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-06-16,90,1,62.5
+P0000057,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-11-22,90,1,100.0
+P0000058,Losartan,50.0,mg,daily,hypertension,2018-01-15,180,1,100.0
+P0000058,Metoprolol,25.0,mg,twice daily,hypertension,2019-02-10,30,1,58.7
+P0000058,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-04-13,30,1,96.3
+P0000058,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-09-15,60,1,60.8
+P0000058,Fluoxetine,20.0,mg,daily,depression,2021-06-08,90,0,56.4
+P0000058,Escitalopram,10.0,mg,daily,depression,2018-01-16,365,0,73.0
+P0000059,Amlodipine,5.0,mg,daily,hypertension,2020-04-14,180,0,90.8
+P0000059,Losartan,50.0,mg,daily,hypertension,2019-07-02,30,0,75.8
+P0000059,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2021-04-30,60,0,67.8
+P0000059,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2019-12-15,60,0,83.5
+P0000059,Sertraline,50.0,mg,daily,depression,2018-07-22,365,1,62.8
+P0000059,Escitalopram,10.0,mg,daily,depression,2020-01-09,365,1,50.4
+P0000060,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-03-28,60,0,78.5
+P0000061,Amlodipine,5.0,mg,daily,hypertension,2021-02-17,365,0,100.0
+P0000061,Jardiance,10.0,mg,daily,type2_diabetes,2020-12-20,30,0,70.6
+P0000061,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-12-14,60,1,84.6
+P0000061,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-10-29,60,0,100.0
+P0000062,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2021-01-19,30,0,46.5
+P0000062,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-10-25,30,0,73.6
+P0000063,Amlodipine,5.0,mg,daily,hypertension,2018-01-09,180,1,94.8
+P0000063,Metoprolol,25.0,mg,twice daily,hypertension,2019-12-18,60,1,75.0
+P0000063,Escitalopram,10.0,mg,daily,depression,2018-01-19,60,1,100.0
+P0000064,Glipizide,5.0,mg,daily,type2_diabetes,2020-10-13,90,0,91.2
+P0000065,Atorvastatin,20.0,mg,daily,hyperlipidemia,2021-06-22,30,1,75.2
+P0000065,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-12-02,90,1,75.9
+P0000065,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2019-06-11,60,1,100.0
+P0000065,Clopidogrel,75.0,mg,daily,coronary_artery_disease,2020-07-16,90,1,65.5
+P0000065,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2021-02-23,30,1,66.7
+P0000065,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2019-10-08,30,1,94.8
+P0000066,Amlodipine,5.0,mg,daily,hypertension,2021-01-01,365,0,71.3
+P0000066,Metoprolol,25.0,mg,twice daily,hypertension,2019-12-10,90,1,63.0
+P0000066,Furosemide,40.0,mg,daily,heart_failure,2019-04-17,60,1,100.0
+P0000066,Celecoxib,200.0,mg,daily,osteoarthritis,2020-08-12,30,0,100.0
+P0000066,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2020-04-20,90,1,100.0
+P0000067,Amlodipine,5.0,mg,daily,hypertension,2019-11-23,60,1,80.7
+P0000067,Metoprolol,25.0,mg,twice daily,hypertension,2018-07-17,60,0,81.9
+P0000068,Losartan,50.0,mg,daily,hypertension,2020-10-12,365,0,51.5
+P0000068,Metoprolol,25.0,mg,twice daily,hypertension,2018-03-08,180,1,70.5
+P0000068,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2020-11-08,30,1,44.1
+P0000069,Metoprolol,25.0,mg,twice daily,hypertension,2019-01-30,60,1,75.4
+P0000069,Sertraline,50.0,mg,daily,anxiety,2019-04-29,60,1,84.6
+P0000070,Amlodipine,5.0,mg,daily,hypertension,2021-03-20,30,1,100.0
+P0000070,Glipizide,5.0,mg,daily,type2_diabetes,2021-06-24,180,1,91.7
+P0000070,Ozempic,0.5,mg,weekly,type2_diabetes,2020-06-13,90,0,88.4
+P0000070,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-02-01,30,1,100.0
+P0000070,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-04-28,365,1,89.0
+P0000070,Carvedilol,6.25,mg,twice daily,heart_failure,2019-12-28,30,1,87.4
+P0000070,Furosemide,40.0,mg,daily,heart_failure,2018-04-01,180,1,74.0
+P0000070,Celecoxib,200.0,mg,daily,osteoarthritis,2021-05-17,90,1,90.8
+P0000071,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-02-06,180,1,81.5
+P0000071,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2021-02-20,90,0,65.7
+P0000072,Metformin,500.0,mg,twice daily,type2_diabetes,2020-12-16,30,1,92.5
+P0000072,Glipizide,5.0,mg,daily,type2_diabetes,2018-09-23,180,1,90.7
+P0000072,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-07-22,180,1,75.8
+P0000072,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-08-20,365,0,89.3
+P0000072,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2019-09-22,180,1,58.9
+P0000073,Lisinopril,10.0,mg,daily,hypertension,2020-07-22,60,1,74.4
+P0000073,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-06-26,60,1,100.0
+P0000074,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2018-01-06,60,0,65.9
+P0000075,Lisinopril,10.0,mg,daily,hypertension,2018-03-02,365,0,73.8
+P0000075,Levothyroxine,50.0,mcg,daily,hypothyroidism,2019-10-11,365,1,50.7
+P0000075,Celecoxib,200.0,mg,daily,osteoarthritis,2021-05-31,30,1,98.0
+P0000076,Metoprolol,25.0,mg,twice daily,hypertension,2020-11-13,90,0,100.0
+P0000076,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-04-01,180,0,96.6
+P0000076,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-10-23,90,0,77.7
+P0000076,Fluticasone,110.0,mcg,twice daily,asthma,2020-01-22,90,0,72.9
+P0000077,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-02-28,365,0,67.6
+P0000077,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2018-11-24,60,1,78.5
+P0000078,Metoprolol,25.0,mg,twice daily,hypertension,2019-12-14,60,0,42.2
+P0000078,Losartan,50.0,mg,daily,hypertension,2018-02-18,365,1,95.5
+P0000078,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-04-24,180,1,85.1
+P0000078,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-01-10,30,1,76.4
+P0000078,Spironolactone,25.0,mg,daily,heart_failure,2018-06-24,30,0,67.0
+P0000079,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-02-26,365,1,100.0
+P0000079,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-03-05,90,0,72.7
+P0000079,Celecoxib,200.0,mg,daily,osteoarthritis,2021-01-05,180,1,83.5
+P0000080,Metoprolol,25.0,mg,twice daily,hypertension,2018-11-10,90,0,98.7
+P0000080,Losartan,50.0,mg,daily,hypertension,2019-02-14,365,1,69.2
+P0000080,Levothyroxine,50.0,mcg,daily,hypothyroidism,2019-06-20,60,1,66.3
+P0000081,Lisinopril,10.0,mg,daily,hypertension,2019-06-19,90,1,71.9
+P0000081,Metoprolol,25.0,mg,twice daily,hypertension,2020-01-28,60,0,79.2
+P0000081,Warfarin,5.0,mg,daily,atrial_fibrillation,2020-08-11,90,1,89.6
+P0000082,Losartan,50.0,mg,daily,hypertension,2020-08-28,90,1,100.0
+P0000082,Amlodipine,5.0,mg,daily,hypertension,2021-06-23,90,1,89.8
+P0000082,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2019-10-06,180,0,83.9
+P0000082,Levothyroxine,50.0,mcg,daily,hypothyroidism,2019-09-14,180,1,89.5
+P0000083,Lisinopril,10.0,mg,daily,hypertension,2020-07-09,365,0,46.7
+P0000083,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-05-10,30,1,92.8
+P0000083,Fluticasone,110.0,mcg,twice daily,asthma,2020-06-29,60,1,100.0
+P0000083,Albuterol,90.0,mcg,as needed,asthma,2021-05-14,180,0,91.1
+P0000083,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2021-06-16,30,1,100.0
+P0000084,Losartan,50.0,mg,daily,hypertension,2021-01-06,30,1,92.8
+P0000085,Lisinopril,10.0,mg,daily,hypertension,2021-06-03,180,1,63.5
+P0000085,Losartan,50.0,mg,daily,hypertension,2019-05-14,30,0,61.9
+P0000085,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2021-02-25,60,1,100.0
+P0000085,Escitalopram,10.0,mg,daily,depression,2019-10-13,60,1,89.5
+P0000085,Levothyroxine,50.0,mcg,daily,hypothyroidism,2021-06-28,180,0,37.8
+P0000085,Tiotropium,18.0,mcg,daily,copd,2018-09-12,30,0,66.8
+P0000087,Losartan,50.0,mg,daily,hypertension,2018-12-24,90,1,79.5
+P0000088,Metoprolol,25.0,mg,twice daily,hypertension,2019-03-17,90,0,96.5
+P0000088,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-07-11,90,1,100.0
+P0000088,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-12-08,90,0,85.7
+P0000089,Metoprolol,25.0,mg,twice daily,hypertension,2021-04-08,180,0,80.9
+P0000089,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-02-13,90,0,100.0
+P0000089,Albuterol,90.0,mcg,as needed,asthma,2019-11-08,60,0,65.8
+P0000089,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2020-03-18,90,1,88.4
+P0000090,Amlodipine,5.0,mg,daily,hypertension,2020-08-14,90,1,61.3
+P0000090,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-11-20,180,1,56.2
+P0000090,Levothyroxine,50.0,mcg,daily,hypothyroidism,2018-05-20,90,0,96.2
+P0000090,Albuterol,90.0,mcg,as needed,asthma,2018-06-09,180,0,55.3
+P0000090,Fluticasone,110.0,mcg,twice daily,asthma,2019-07-23,365,1,96.5
+P0000090,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2018-08-24,60,1,90.4
+P0000090,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2020-06-29,30,1,67.9
+P0000091,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-03-24,30,0,88.4
+P0000091,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2021-04-30,60,1,79.8
+P0000091,Fluticasone,110.0,mcg,twice daily,asthma,2021-05-25,90,1,92.2
+P0000091,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2018-12-19,30,1,62.2
+P0000091,Celecoxib,200.0,mg,daily,osteoarthritis,2019-01-02,30,1,76.6
+P0000092,Amlodipine,5.0,mg,daily,hypertension,2018-06-11,90,1,73.9
+P0000092,Metoprolol,25.0,mg,twice daily,hypertension,2019-02-13,90,1,77.8
+P0000092,Jardiance,10.0,mg,daily,type2_diabetes,2021-05-31,30,1,100.0
+P0000093,Amlodipine,5.0,mg,daily,hypertension,2019-12-30,90,0,97.8
+P0000093,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2020-10-27,60,1,54.4
+P0000093,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2018-04-04,90,1,74.0
+P0000094,Lisinopril,10.0,mg,daily,hypertension,2019-06-28,365,1,85.2
+P0000095,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-07-21,30,0,100.0
+P0000095,Celecoxib,200.0,mg,daily,osteoarthritis,2020-03-13,90,1,98.8
+P0000095,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2018-07-19,60,1,100.0
+P0000096,Metoprolol,25.0,mg,twice daily,hypertension,2020-02-20,90,1,73.6
+P0000096,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-11-21,90,1,100.0
+P0000096,Aspirin,81.0,mg,daily,coronary_artery_disease,2018-09-04,90,0,88.2
+P0000097,Amlodipine,5.0,mg,daily,hypertension,2018-04-05,60,0,71.4
+P0000097,Losartan,50.0,mg,daily,hypertension,2020-01-23,90,1,61.6
+P0000097,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-08-12,60,0,81.0
+P0000097,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-12-21,60,0,87.2
+P0000097,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2020-10-19,180,0,76.1
+P0000098,Metoprolol,25.0,mg,twice daily,hypertension,2021-04-14,30,0,99.0
+P0000098,Escitalopram,10.0,mg,daily,depression,2019-10-27,60,1,84.1
+P0000099,Losartan,50.0,mg,daily,hypertension,2020-06-02,60,0,94.0
+P0000099,Lisinopril,10.0,mg,daily,hypertension,2018-06-06,90,1,100.0
+P0000099,Escitalopram,10.0,mg,daily,depression,2021-03-13,365,1,76.5
+P0000099,Fluoxetine,20.0,mg,daily,depression,2018-04-15,90,1,76.3
+P0000100,Lisinopril,10.0,mg,daily,hypertension,2018-05-23,365,1,79.5
+P0000100,Furosemide,40.0,mg,daily,heart_failure,2021-03-31,365,1,79.7
+P0000100,Levothyroxine,50.0,mcg,daily,hypothyroidism,2020-05-13,365,0,69.1
+P0000101,Losartan,50.0,mg,daily,hypertension,2019-02-01,30,1,44.7
+P0000102,Lisinopril,10.0,mg,daily,hypertension,2019-02-20,60,1,60.3
+P0000102,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-10-13,365,0,36.2
+P0000102,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-04-16,180,1,81.5
+P0000102,Levothyroxine,50.0,mcg,daily,hypothyroidism,2020-01-10,90,1,98.2
+P0000103,Metoprolol,25.0,mg,twice daily,hypertension,2020-06-23,365,0,72.7
+P0000103,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-02-11,180,0,66.7
+P0000103,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-03-23,60,1,90.3
+P0000104,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-01-06,180,1,45.9
+P0000104,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-10-03,90,1,63.4
+P0000104,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2019-05-23,90,1,95.9
+P0000105,Ozempic,0.5,mg,weekly,type2_diabetes,2019-07-22,180,0,60.2
+P0000105,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-01-15,60,1,98.9
+P0000105,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-01-28,365,1,91.9
+P0000105,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2019-12-14,180,1,100.0
+P0000105,Celecoxib,200.0,mg,daily,osteoarthritis,2020-04-05,365,0,73.4
+P0000106,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-05-21,90,1,61.9
+P0000106,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-05-08,60,1,98.6
+P0000106,Buspirone,10.0,mg,twice daily,anxiety,2019-11-17,180,1,100.0
+P0000107,Losartan,50.0,mg,daily,hypertension,2020-12-19,30,0,61.6
+P0000107,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2019-02-15,30,0,80.3
+P0000107,Aspirin,81.0,mg,daily,coronary_artery_disease,2020-01-28,30,1,90.3
+P0000107,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2019-09-03,60,0,70.8
+P0000107,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2020-06-11,60,1,79.9
+P0000108,Amlodipine,5.0,mg,daily,hypertension,2021-04-09,60,1,95.1
+P0000108,Losartan,50.0,mg,daily,hypertension,2019-11-30,180,1,100.0
+P0000109,Metoprolol,25.0,mg,twice daily,hypertension,2019-03-30,30,0,58.4
+P0000111,Lisinopril,10.0,mg,daily,hypertension,2018-11-20,365,1,94.4
+P0000111,Amlodipine,5.0,mg,daily,hypertension,2020-02-20,90,1,71.3
+P0000111,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-05-25,60,1,100.0
+P0000111,Clopidogrel,75.0,mg,daily,coronary_artery_disease,2019-02-05,60,1,43.9
+P0000111,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2018-05-24,90,1,44.7
+P0000111,Fluticasone,110.0,mcg,twice daily,asthma,2018-09-17,60,0,83.9
+P0000111,Albuterol,90.0,mcg,as needed,asthma,2019-07-17,180,1,66.2
+P0000111,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2018-10-08,90,1,66.5
+P0000112,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2021-03-13,180,0,57.5
+P0000114,Amlodipine,5.0,mg,daily,hypertension,2018-06-14,60,1,72.5
+P0000114,Jardiance,10.0,mg,daily,type2_diabetes,2019-02-21,60,1,92.8
+P0000114,Metformin,500.0,mg,twice daily,type2_diabetes,2020-05-19,365,1,69.6
+P0000114,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-10-03,90,1,76.5
+P0000114,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-01-03,30,1,36.7
+P0000114,Albuterol,90.0,mcg,as needed,asthma,2019-12-18,60,0,82.3
+P0000114,Fluticasone,110.0,mcg,twice daily,asthma,2019-09-21,60,0,59.2
+P0000114,Celecoxib,200.0,mg,daily,osteoarthritis,2020-09-21,30,1,89.7
+P0000115,Losartan,50.0,mg,daily,hypertension,2020-08-16,60,1,72.1
+P0000115,Lisinopril,10.0,mg,daily,hypertension,2019-09-23,90,0,87.6
+P0000116,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-04-16,365,1,58.1
+P0000116,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2021-06-28,30,1,59.5
+P0000116,Celecoxib,200.0,mg,daily,osteoarthritis,2019-11-11,60,0,67.6
+P0000117,Losartan,50.0,mg,daily,hypertension,2019-08-22,365,1,90.2
+P0000117,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-02-18,60,0,72.1
+P0000117,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-08-29,90,0,73.7
+P0000117,Fluticasone,110.0,mcg,twice daily,asthma,2019-11-12,30,0,59.9
+P0000118,Jardiance,10.0,mg,daily,type2_diabetes,2020-02-03,90,1,95.4
+P0000118,Ozempic,0.5,mg,weekly,type2_diabetes,2019-05-10,90,0,100.0
+P0000118,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-12-01,60,1,75.7
+P0000118,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-03-24,60,0,71.0
+P0000118,Aspirin,81.0,mg,daily,coronary_artery_disease,2018-02-22,90,0,100.0
+P0000118,Carvedilol,6.25,mg,twice daily,heart_failure,2019-03-31,60,0,67.2
+P0000118,Furosemide,40.0,mg,daily,heart_failure,2018-12-20,90,1,88.6
+P0000118,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2020-12-07,180,0,80.0
+P0000119,Metoprolol,25.0,mg,twice daily,hypertension,2020-04-26,30,1,78.0
+P0000120,Amlodipine,5.0,mg,daily,hypertension,2018-11-24,180,1,82.1
+P0000120,Metformin,500.0,mg,twice daily,type2_diabetes,2020-03-26,30,1,100.0
+P0000120,Jardiance,10.0,mg,daily,type2_diabetes,2019-04-23,365,0,60.8
+P0000120,Sertraline,50.0,mg,daily,depression,2019-05-20,90,1,100.0
+P0000120,Tiotropium,18.0,mcg,daily,copd,2018-02-24,365,0,65.6
+P0000120,Albuterol,90.0,mcg,as needed,copd,2021-05-11,180,1,88.9
+P0000121,Lisinopril,10.0,mg,daily,hypertension,2018-08-05,90,1,86.8
+P0000121,Losartan,50.0,mg,daily,hypertension,2020-02-01,90,0,79.4
+P0000121,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-10-30,180,1,73.4
+P0000121,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-01-17,180,1,100.0
+P0000122,Lisinopril,10.0,mg,daily,hypertension,2020-04-18,90,1,100.0
+P0000122,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-09-30,180,0,87.3
+P0000122,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-12-04,30,1,77.5
+P0000122,Sertraline,50.0,mg,daily,anxiety,2020-10-22,90,1,69.8
+P0000122,Buspirone,10.0,mg,twice daily,anxiety,2019-03-27,60,1,100.0
+P0000123,Glipizide,5.0,mg,daily,type2_diabetes,2019-12-01,180,0,88.6
+P0000123,Ozempic,0.5,mg,weekly,type2_diabetes,2019-11-15,60,0,47.2
+P0000123,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-08-18,90,1,79.5
+P0000124,Losartan,50.0,mg,daily,hypertension,2021-05-06,180,0,100.0
+P0000124,Metoprolol,25.0,mg,twice daily,hypertension,2020-09-23,60,1,100.0
+P0000124,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-10-06,60,0,64.3
+P0000124,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-09-24,365,1,100.0
+P0000125,Metoprolol,25.0,mg,twice daily,hypertension,2018-10-11,90,0,89.1
+P0000125,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-02-15,90,1,34.4
+P0000125,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-12-11,30,0,95.7
+P0000125,Celecoxib,200.0,mg,daily,osteoarthritis,2019-05-27,180,0,82.3
+P0000126,Lisinopril,10.0,mg,daily,hypertension,2018-07-28,90,1,100.0
+P0000126,Jardiance,10.0,mg,daily,type2_diabetes,2019-08-13,60,0,100.0
+P0000126,Ozempic,0.5,mg,weekly,type2_diabetes,2018-02-18,365,1,96.1
+P0000126,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-01-27,180,0,100.0
+P0000126,Atorvastatin,20.0,mg,daily,hyperlipidemia,2021-06-25,60,1,87.1
+P0000126,Albuterol,90.0,mcg,as needed,asthma,2018-12-12,365,1,72.5
+P0000126,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2020-04-26,180,1,95.2
+P0000126,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2019-12-14,90,1,73.7
+P0000129,Losartan,50.0,mg,daily,hypertension,2019-02-15,90,1,83.2
+P0000129,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-02-15,30,1,97.1
+P0000129,Albuterol,90.0,mcg,as needed,asthma,2021-04-01,30,0,83.4
+P0000129,Fluticasone,110.0,mcg,twice daily,asthma,2020-07-16,365,0,92.3
+P0000130,Metformin,500.0,mg,twice daily,type2_diabetes,2020-07-21,180,1,69.3
+P0000130,Ozempic,0.5,mg,weekly,type2_diabetes,2018-12-08,90,1,100.0
+P0000133,Metoprolol,25.0,mg,twice daily,hypertension,2019-12-23,90,1,100.0
+P0000133,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-01-16,60,1,82.3
+P0000133,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-08-18,90,1,86.3
+P0000133,Levothyroxine,50.0,mcg,daily,hypothyroidism,2021-06-24,90,1,67.4
+P0000134,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-06-01,60,1,51.7
+P0000134,Sertraline,50.0,mg,daily,anxiety,2021-02-09,90,0,78.3
+P0000134,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2020-03-26,60,1,76.1
+P0000135,Lisinopril,10.0,mg,daily,hypertension,2018-10-16,60,0,44.5
+P0000135,Ozempic,0.5,mg,weekly,type2_diabetes,2021-05-22,180,0,86.9
+P0000135,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-06-01,180,1,100.0
+P0000135,Fluoxetine,20.0,mg,daily,depression,2018-07-21,365,1,79.0
+P0000136,Metoprolol,25.0,mg,twice daily,hypertension,2018-10-28,30,1,90.2
+P0000136,Sertraline,50.0,mg,daily,depression,2019-10-03,90,0,99.1
+P0000136,Celecoxib,200.0,mg,daily,osteoarthritis,2018-04-19,60,0,98.0
+P0000136,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2019-01-18,30,0,73.9
+P0000137,Lisinopril,10.0,mg,daily,hypertension,2021-06-06,180,1,59.2
+P0000137,Metoprolol,25.0,mg,twice daily,hypertension,2018-04-11,30,1,79.6
+P0000137,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-08-07,180,1,74.6
+P0000137,Sertraline,50.0,mg,daily,anxiety,2021-04-19,30,1,56.0
+P0000137,Buspirone,10.0,mg,twice daily,anxiety,2021-04-22,180,0,49.7
+P0000137,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2019-09-21,60,0,58.4
+P0000137,Celecoxib,200.0,mg,daily,osteoarthritis,2021-03-04,60,1,84.6
+P0000137,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2020-11-30,90,0,70.3
+P0000138,Lisinopril,10.0,mg,daily,hypertension,2018-08-17,365,1,75.9
+P0000138,Losartan,50.0,mg,daily,hypertension,2018-02-16,30,1,68.7
+P0000138,Buspirone,10.0,mg,twice daily,anxiety,2020-03-14,90,1,70.9
+P0000138,Sertraline,50.0,mg,daily,anxiety,2020-04-17,365,1,73.9
+P0000139,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-02-18,90,0,93.2
+P0000140,Losartan,50.0,mg,daily,hypertension,2019-04-23,30,1,49.5
+P0000140,Metoprolol,25.0,mg,twice daily,hypertension,2019-12-25,180,0,69.1
+P0000140,Fluoxetine,20.0,mg,daily,depression,2021-05-16,30,0,97.3
+P0000140,Sertraline,50.0,mg,daily,depression,2020-05-12,180,1,58.9
+P0000140,Sertraline,50.0,mg,daily,anxiety,2021-03-13,365,1,66.8
+P0000141,Losartan,50.0,mg,daily,hypertension,2019-06-04,90,1,64.3
+P0000141,Metoprolol,25.0,mg,twice daily,hypertension,2020-12-20,90,1,87.0
+P0000141,Clopidogrel,75.0,mg,daily,coronary_artery_disease,2018-04-22,30,1,100.0
+P0000141,Sertraline,50.0,mg,daily,anxiety,2019-02-18,90,0,97.4
+P0000141,Buspirone,10.0,mg,twice daily,anxiety,2019-01-03,60,1,100.0
+P0000141,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2021-03-30,30,0,84.4
+P0000141,Celecoxib,200.0,mg,daily,osteoarthritis,2019-08-03,30,0,79.7
+P0000142,Lisinopril,10.0,mg,daily,hypertension,2021-04-23,60,0,100.0
+P0000142,Amlodipine,5.0,mg,daily,hypertension,2019-01-16,180,1,60.9
+P0000142,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-11-21,90,0,66.4
+P0000142,Albuterol,90.0,mcg,as needed,asthma,2020-11-02,30,1,100.0
+P0000142,Fluticasone,110.0,mcg,twice daily,asthma,2021-03-01,180,1,75.4
+P0000143,Atorvastatin,20.0,mg,daily,hyperlipidemia,2021-01-25,90,0,95.4
+P0000144,Amlodipine,5.0,mg,daily,hypertension,2018-11-27,90,0,71.3
+P0000144,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-05-27,90,1,84.7
+P0000144,Buspirone,10.0,mg,twice daily,anxiety,2018-01-18,90,0,82.4
+P0000145,Levothyroxine,50.0,mcg,daily,hypothyroidism,2018-07-30,60,1,50.5
+P0000146,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-07-31,365,1,79.3
+P0000148,Amlodipine,5.0,mg,daily,hypertension,2018-02-04,180,1,84.3
+P0000148,Sertraline,50.0,mg,daily,depression,2020-04-28,60,0,91.6
+P0000148,Fluoxetine,20.0,mg,daily,depression,2021-03-13,60,0,81.0
+P0000149,Lisinopril,10.0,mg,daily,hypertension,2018-01-19,180,1,94.1
+P0000149,Losartan,50.0,mg,daily,hypertension,2018-11-19,90,1,82.2
+P0000149,Jardiance,10.0,mg,daily,type2_diabetes,2020-07-18,365,1,86.9
+P0000149,Metformin,500.0,mg,twice daily,type2_diabetes,2021-06-13,60,0,56.4
+P0000149,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-08-21,30,1,100.0
+P0000149,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-05-14,90,1,96.7
+P0000149,Escitalopram,10.0,mg,daily,depression,2020-12-13,60,0,62.6
+P0000150,Losartan,50.0,mg,daily,hypertension,2020-05-03,90,1,68.6
+P0000150,Lisinopril,10.0,mg,daily,hypertension,2019-11-08,90,0,89.8
+P0000150,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-05-31,30,1,88.6
+P0000151,Lisinopril,10.0,mg,daily,hypertension,2018-06-05,30,0,68.3
+P0000151,Losartan,50.0,mg,daily,hypertension,2021-03-16,90,1,67.4
+P0000151,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-05-26,90,0,80.5
+P0000151,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-12-15,180,1,100.0
+P0000152,Amlodipine,5.0,mg,daily,hypertension,2020-05-17,30,0,86.0
+P0000152,Atorvastatin,20.0,mg,daily,hyperlipidemia,2021-04-07,90,0,94.2
+P0000152,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-02-15,180,0,72.6
+P0000152,Fluticasone,110.0,mcg,twice daily,asthma,2019-11-05,90,0,72.8
+P0000152,Albuterol,90.0,mcg,as needed,asthma,2018-02-19,180,1,91.1
+P0000152,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2018-07-07,365,1,78.9
+P0000152,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2019-08-12,90,1,47.6
+P0000152,Celecoxib,200.0,mg,daily,osteoarthritis,2019-06-21,60,1,78.0
+P0000153,Metoprolol,25.0,mg,twice daily,hypertension,2018-01-13,365,0,78.7
+P0000153,Amlodipine,5.0,mg,daily,hypertension,2020-11-22,60,1,48.2
+P0000153,Jardiance,10.0,mg,daily,type2_diabetes,2018-02-03,30,0,75.8
+P0000153,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-09-16,60,1,56.2
+P0000153,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-07-19,60,1,77.3
+P0000153,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2019-06-11,180,0,44.7
+P0000153,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2019-08-10,365,1,61.0
+P0000153,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2020-02-27,90,1,82.2
+P0000153,Celecoxib,200.0,mg,daily,osteoarthritis,2018-06-07,60,0,66.0
+P0000154,Amlodipine,5.0,mg,daily,hypertension,2021-02-17,30,1,100.0
+P0000154,Lisinopril,10.0,mg,daily,hypertension,2019-02-03,90,0,94.6
+P0000154,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-02-18,90,0,98.1
+P0000154,Carvedilol,6.25,mg,twice daily,heart_failure,2018-08-31,180,0,84.7
+P0000154,Furosemide,40.0,mg,daily,heart_failure,2021-06-12,60,1,51.8
+P0000154,Sertraline,50.0,mg,daily,depression,2019-06-15,180,1,92.5
+P0000155,Metoprolol,25.0,mg,twice daily,hypertension,2019-06-24,90,1,100.0
+P0000155,Albuterol,90.0,mcg,as needed,asthma,2020-09-19,180,1,73.9
+P0000156,Glipizide,5.0,mg,daily,type2_diabetes,2019-01-02,365,0,100.0
+P0000156,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-11-23,180,1,81.9
+P0000156,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-11-06,60,1,70.8
+P0000157,Amlodipine,5.0,mg,daily,hypertension,2018-02-06,90,1,45.4
+P0000157,Losartan,50.0,mg,daily,hypertension,2018-01-09,90,1,70.9
+P0000157,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-01-21,60,1,94.1
+P0000157,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-09-29,30,0,79.0
+P0000158,Lisinopril,10.0,mg,daily,hypertension,2018-03-24,30,0,39.9
+P0000158,Fluoxetine,20.0,mg,daily,depression,2021-05-06,365,1,99.9
+P0000158,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2018-07-09,30,1,82.5
+P0000158,Celecoxib,200.0,mg,daily,osteoarthritis,2021-06-23,365,1,99.6
+P0000159,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-08-20,90,1,52.1
+P0000159,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-04-14,180,0,64.3
+P0000159,Sertraline,50.0,mg,daily,depression,2020-11-13,30,1,82.8
+P0000159,Fluoxetine,20.0,mg,daily,depression,2021-03-02,30,1,84.0
+P0000160,Metoprolol,25.0,mg,twice daily,hypertension,2019-07-27,365,1,95.8
+P0000160,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2021-02-22,90,0,73.1
+P0000160,Levothyroxine,50.0,mcg,daily,hypothyroidism,2019-07-23,180,1,80.9
+P0000160,Albuterol,90.0,mcg,as needed,asthma,2021-04-20,90,1,81.5
+P0000160,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2019-11-25,90,1,83.4
+P0000160,Celecoxib,200.0,mg,daily,osteoarthritis,2021-04-03,30,1,56.4
+P0000161,Metformin,500.0,mg,twice daily,type2_diabetes,2019-11-09,90,1,73.0
+P0000161,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-11-11,180,1,77.6
+P0000161,Aspirin,81.0,mg,daily,coronary_artery_disease,2020-10-12,30,1,77.6
+P0000161,Clopidogrel,75.0,mg,daily,coronary_artery_disease,2021-06-03,60,1,72.7
+P0000161,Fluoxetine,20.0,mg,daily,depression,2021-06-21,180,1,100.0
+P0000162,Lisinopril,10.0,mg,daily,hypertension,2021-02-01,365,1,76.3
+P0000162,Fluoxetine,20.0,mg,daily,depression,2020-10-26,180,1,95.8
+P0000162,Escitalopram,10.0,mg,daily,depression,2020-09-15,90,0,64.8
+P0000163,Losartan,50.0,mg,daily,hypertension,2021-05-12,365,0,78.8
+P0000163,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-03-28,180,0,100.0
+P0000163,Celecoxib,200.0,mg,daily,osteoarthritis,2018-01-15,30,1,76.2
+P0000163,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2020-03-10,365,0,75.3
+P0000165,Jardiance,10.0,mg,daily,type2_diabetes,2020-12-24,180,0,68.0
+P0000166,Losartan,50.0,mg,daily,hypertension,2020-06-28,365,1,69.8
+P0000166,Glipizide,5.0,mg,daily,type2_diabetes,2020-03-27,30,0,100.0
+P0000166,Ozempic,0.5,mg,weekly,type2_diabetes,2018-02-14,180,1,86.4
+P0000166,Clopidogrel,75.0,mg,daily,coronary_artery_disease,2020-12-02,60,0,61.3
+P0000166,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2020-08-01,180,1,96.3
+P0000166,Sertraline,50.0,mg,daily,depression,2018-06-27,90,1,88.8
+P0000166,Fluoxetine,20.0,mg,daily,depression,2018-03-20,90,0,71.9
+P0000166,Fluticasone,110.0,mcg,twice daily,asthma,2019-07-04,60,1,78.2
+P0000166,Albuterol,90.0,mcg,as needed,asthma,2020-04-04,90,1,86.1
+P0000166,Celecoxib,200.0,mg,daily,osteoarthritis,2019-09-01,30,1,93.5
+P0000166,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2018-08-08,180,1,100.0
+P0000167,Carvedilol,6.25,mg,twice daily,heart_failure,2020-01-12,180,1,91.8
+P0000167,Levothyroxine,50.0,mcg,daily,hypothyroidism,2018-04-13,60,1,30.8
+P0000167,Fluticasone,110.0,mcg,twice daily,asthma,2020-10-03,180,1,84.7
+P0000167,Albuterol,90.0,mcg,as needed,asthma,2018-03-12,60,0,93.4
+P0000168,Lisinopril,10.0,mg,daily,hypertension,2019-08-05,180,0,65.5
+P0000168,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-11-05,180,0,42.0
+P0000168,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-04-11,365,1,51.6
+P0000168,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2018-03-08,30,1,76.2
+P0000168,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2020-01-09,365,1,100.0
+P0000169,Lisinopril,10.0,mg,daily,hypertension,2019-09-30,180,0,58.0
+P0000169,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-07-21,90,1,100.0
+P0000169,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-04-30,60,1,79.4
+P0000169,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2020-09-06,90,1,82.6
+P0000170,Metoprolol,25.0,mg,twice daily,hypertension,2021-01-29,30,0,81.0
+P0000170,Celecoxib,200.0,mg,daily,osteoarthritis,2018-06-22,180,1,67.5
+P0000170,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2020-12-02,90,1,53.3
+P0000171,Metoprolol,25.0,mg,twice daily,hypertension,2019-11-24,30,1,87.0
+P0000171,Losartan,50.0,mg,daily,hypertension,2019-09-22,90,1,100.0
+P0000172,Losartan,50.0,mg,daily,hypertension,2019-04-08,180,0,76.6
+P0000172,Aspirin,81.0,mg,daily,coronary_artery_disease,2021-03-23,365,1,72.0
+P0000172,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2018-06-04,365,0,92.1
+P0000172,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2021-04-17,90,0,70.1
+P0000172,Celecoxib,200.0,mg,daily,osteoarthritis,2018-12-17,180,1,45.0
+P0000173,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-02-10,30,1,87.7
+P0000173,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-04-11,60,1,100.0
+P0000174,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-06-26,180,1,87.8
+P0000174,Aspirin,81.0,mg,daily,coronary_artery_disease,2019-06-16,365,0,72.2
+P0000174,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2019-07-29,90,1,84.1
+P0000175,Metoprolol,25.0,mg,twice daily,hypertension,2019-04-29,30,1,87.1
+P0000175,Lisinopril,10.0,mg,daily,hypertension,2018-02-23,90,0,100.0
+P0000175,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2019-04-04,180,1,73.4
+P0000176,Metoprolol,25.0,mg,twice daily,hypertension,2019-02-01,90,1,69.9
+P0000176,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-09-27,180,1,84.9
+P0000176,Celecoxib,200.0,mg,daily,osteoarthritis,2019-04-30,180,1,57.4
+P0000176,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2019-10-19,90,0,75.8
+P0000177,Amlodipine,5.0,mg,daily,hypertension,2018-05-23,180,0,81.7
+P0000177,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-03-05,60,1,100.0
+P0000177,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-07-18,60,1,100.0
+P0000178,Amlodipine,5.0,mg,daily,hypertension,2019-04-15,180,1,75.0
+P0000178,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2020-10-24,180,1,83.8
+P0000179,Losartan,50.0,mg,daily,hypertension,2021-05-09,90,1,69.3
+P0000179,Metoprolol,25.0,mg,twice daily,hypertension,2019-03-13,60,1,88.6
+P0000179,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-07-20,365,1,100.0
+P0000179,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-10-30,60,0,86.0
+P0000179,Fluticasone,110.0,mcg,twice daily,asthma,2020-07-30,90,1,83.1
+P0000179,Albuterol,90.0,mcg,as needed,asthma,2019-05-23,90,0,87.5
+P0000179,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2020-03-09,90,1,72.5
+P0000179,Celecoxib,200.0,mg,daily,osteoarthritis,2020-02-24,180,1,90.7
+P0000180,Metoprolol,25.0,mg,twice daily,hypertension,2020-12-20,365,1,100.0
+P0000180,Glipizide,5.0,mg,daily,type2_diabetes,2020-01-02,365,1,94.4
+P0000180,Sertraline,50.0,mg,daily,depression,2020-08-31,90,1,67.3
+P0000181,Glipizide,5.0,mg,daily,type2_diabetes,2018-10-01,90,1,93.7
+P0000181,Ozempic,0.5,mg,weekly,type2_diabetes,2020-01-25,365,1,100.0
+P0000181,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-04-30,60,1,100.0
+P0000181,Aspirin,81.0,mg,daily,coronary_artery_disease,2018-03-24,60,0,70.1
+P0000182,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-03-14,60,1,83.3
+P0000182,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-05-12,60,0,99.1
+P0000184,Lisinopril,10.0,mg,daily,hypertension,2018-06-22,30,1,100.0
+P0000184,Metoprolol,25.0,mg,twice daily,hypertension,2019-03-28,180,0,100.0
+P0000185,Amlodipine,5.0,mg,daily,hypertension,2018-04-26,90,1,86.6
+P0000185,Lisinopril,10.0,mg,daily,hypertension,2019-04-21,180,1,60.5
+P0000185,Glipizide,5.0,mg,daily,type2_diabetes,2021-06-04,180,0,45.5
+P0000185,Metformin,500.0,mg,twice daily,type2_diabetes,2020-10-12,180,1,66.7
+P0000185,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-06-03,90,1,73.9
+P0000186,Losartan,50.0,mg,daily,hypertension,2021-01-27,365,1,57.9
+P0000186,Lisinopril,10.0,mg,daily,hypertension,2021-06-29,60,1,100.0
+P0000186,Atorvastatin,20.0,mg,daily,hyperlipidemia,2021-04-24,180,1,73.1
+P0000186,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-05-28,90,1,82.9
+P0000186,Spironolactone,25.0,mg,daily,heart_failure,2018-02-04,60,0,85.0
+P0000186,Levothyroxine,50.0,mcg,daily,hypothyroidism,2019-05-19,180,1,85.0
+P0000186,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2021-03-23,90,0,81.2
+P0000187,Lisinopril,10.0,mg,daily,hypertension,2018-01-28,365,0,97.4
+P0000187,Metoprolol,25.0,mg,twice daily,hypertension,2018-08-19,90,0,45.7
+P0000187,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-11-02,90,1,100.0
+P0000187,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-07-15,90,1,77.3
+P0000187,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2020-08-05,365,1,87.6
+P0000187,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2019-06-14,60,1,90.8
+P0000188,Losartan,50.0,mg,daily,hypertension,2020-04-14,60,1,88.7
+P0000188,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-12-01,60,1,81.1
+P0000188,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2018-03-20,180,0,75.2
+P0000188,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2018-09-17,180,1,100.0
+P0000189,Metoprolol,25.0,mg,twice daily,hypertension,2021-02-10,90,1,77.0
+P0000189,Amlodipine,5.0,mg,daily,hypertension,2018-12-07,90,0,89.2
+P0000190,Lisinopril,10.0,mg,daily,hypertension,2019-03-27,30,1,74.4
+P0000190,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-08-20,60,1,90.3
+P0000190,Sertraline,50.0,mg,daily,anxiety,2018-03-22,90,1,79.3
+P0000190,Buspirone,10.0,mg,twice daily,anxiety,2021-05-28,60,0,74.8
+P0000190,Levothyroxine,50.0,mcg,daily,hypothyroidism,2019-10-27,90,1,48.4
+P0000190,Tiotropium,18.0,mcg,daily,copd,2018-11-09,365,1,93.5
+P0000190,Albuterol,90.0,mcg,as needed,copd,2021-01-24,30,1,55.4
+P0000190,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2021-03-12,90,0,75.3
+P0000190,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2019-09-13,60,1,74.6
+P0000191,Amlodipine,5.0,mg,daily,hypertension,2021-04-02,180,0,91.8
+P0000191,Metoprolol,25.0,mg,twice daily,hypertension,2021-03-15,30,1,100.0
+P0000191,Albuterol,90.0,mcg,as needed,copd,2019-07-15,90,0,77.4
+P0000192,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-11-21,90,0,100.0
+P0000192,Albuterol,90.0,mcg,as needed,asthma,2018-07-01,180,1,100.0
+P0000192,Fluticasone,110.0,mcg,twice daily,asthma,2020-08-06,90,1,89.0
+P0000193,Amlodipine,5.0,mg,daily,hypertension,2020-02-17,180,1,58.2
+P0000193,Lisinopril,10.0,mg,daily,hypertension,2021-03-09,365,1,86.2
+P0000193,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-08-20,90,1,97.9
+P0000193,Sertraline,50.0,mg,daily,anxiety,2019-07-17,180,1,77.9
+P0000193,Buspirone,10.0,mg,twice daily,anxiety,2018-08-03,60,1,88.4
+P0000194,Lisinopril,10.0,mg,daily,hypertension,2018-03-07,180,0,100.0
+P0000194,Metoprolol,25.0,mg,twice daily,hypertension,2019-01-07,365,1,69.4
+P0000194,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-02-04,60,0,76.3
+P0000196,Losartan,50.0,mg,daily,hypertension,2018-08-05,365,1,75.6
+P0000196,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2020-09-08,365,0,93.2
+P0000197,Losartan,50.0,mg,daily,hypertension,2018-12-24,90,1,98.6
+P0000197,Amlodipine,5.0,mg,daily,hypertension,2018-12-23,30,0,61.5
+P0000197,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-04-29,60,1,54.6
+P0000197,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-05-09,30,1,67.4
+P0000198,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-08-22,365,1,92.1
+P0000198,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-05-25,60,0,87.5
+P0000198,Tiotropium,18.0,mcg,daily,copd,2019-01-03,60,1,66.7
+P0000198,Albuterol,90.0,mcg,as needed,copd,2020-09-17,90,0,58.0
+P0000199,Levothyroxine,50.0,mcg,daily,hypothyroidism,2018-08-17,90,1,59.1
+P0000199,Celecoxib,200.0,mg,daily,osteoarthritis,2020-06-16,90,1,76.7
+P0000200,Metformin,500.0,mg,twice daily,type2_diabetes,2020-07-30,90,0,90.9
+P0000200,Tiotropium,18.0,mcg,daily,copd,2020-10-05,180,1,100.0
+P0000200,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2021-01-18,90,1,81.6
+P0000200,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2019-01-03,365,1,100.0
+P0000200,Celecoxib,200.0,mg,daily,osteoarthritis,2018-01-03,30,1,90.2
+P0000201,Losartan,50.0,mg,daily,hypertension,2020-07-10,365,1,86.2
+P0000201,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-05-28,60,1,33.2
+P0000201,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2019-01-03,60,0,57.4
+P0000201,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2020-09-25,90,0,58.7
+P0000201,Celecoxib,200.0,mg,daily,osteoarthritis,2019-05-26,60,1,64.8
+P0000202,Metoprolol,25.0,mg,twice daily,hypertension,2018-05-09,180,1,75.6
+P0000202,Lisinopril,10.0,mg,daily,hypertension,2019-02-04,90,1,63.4
+P0000202,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-06-13,90,1,75.7
+P0000202,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2021-04-27,365,1,100.0
+P0000202,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2019-06-01,365,1,92.7
+P0000204,Metoprolol,25.0,mg,twice daily,hypertension,2021-06-26,60,1,87.0
+P0000204,Lisinopril,10.0,mg,daily,hypertension,2018-05-26,30,1,80.8
+P0000205,Lisinopril,10.0,mg,daily,hypertension,2018-03-18,365,0,99.7
+P0000205,Amlodipine,5.0,mg,daily,hypertension,2020-11-04,365,0,81.3
+P0000206,Amlodipine,5.0,mg,daily,hypertension,2018-10-30,180,1,66.1
+P0000206,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-06-26,365,0,100.0
+P0000206,Atorvastatin,20.0,mg,daily,hyperlipidemia,2021-02-11,365,1,93.1
+P0000206,Sertraline,50.0,mg,daily,depression,2018-12-28,90,1,87.9
+P0000206,Fluoxetine,20.0,mg,daily,depression,2020-04-04,90,1,63.5
+P0000207,Losartan,50.0,mg,daily,hypertension,2020-12-02,365,1,100.0
+P0000207,Buspirone,10.0,mg,twice daily,anxiety,2020-03-29,180,1,70.0
+P0000207,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2020-04-06,90,1,95.2
+P0000208,Metoprolol,25.0,mg,twice daily,hypertension,2021-05-26,180,1,63.6
+P0000208,Ozempic,0.5,mg,weekly,type2_diabetes,2021-05-13,60,1,100.0
+P0000208,Jardiance,10.0,mg,daily,type2_diabetes,2019-05-16,180,0,89.2
+P0000208,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-05-18,30,1,99.2
+P0000208,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-03-27,90,1,88.6
+P0000208,Albuterol,90.0,mcg,as needed,copd,2020-04-26,180,0,74.3
+P0000208,Tiotropium,18.0,mcg,daily,copd,2021-05-17,30,1,93.1
+P0000209,Celecoxib,200.0,mg,daily,osteoarthritis,2019-08-27,90,0,100.0
+P0000210,Losartan,50.0,mg,daily,hypertension,2021-06-09,180,0,84.8
+P0000210,Amlodipine,5.0,mg,daily,hypertension,2020-09-18,180,1,62.0
+P0000210,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-12-25,90,0,89.2
+P0000210,Sertraline,50.0,mg,daily,depression,2019-12-28,90,1,63.3
+P0000211,Losartan,50.0,mg,daily,hypertension,2018-05-26,90,1,55.0
+P0000211,Metoprolol,25.0,mg,twice daily,hypertension,2019-07-26,365,1,75.1
+P0000211,Buspirone,10.0,mg,twice daily,anxiety,2020-11-26,30,0,72.7
+P0000211,Sertraline,50.0,mg,daily,anxiety,2020-08-22,365,0,93.0
+P0000211,Celecoxib,200.0,mg,daily,osteoarthritis,2019-11-25,90,1,79.6
+P0000211,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2021-02-20,365,1,98.0
+P0000212,Losartan,50.0,mg,daily,hypertension,2021-05-21,30,1,65.8
+P0000212,Metoprolol,25.0,mg,twice daily,hypertension,2020-10-21,90,0,67.7
+P0000213,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-12-30,30,0,75.0
+P0000213,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-03-18,60,1,74.2
+P0000215,Metoprolol,25.0,mg,twice daily,hypertension,2021-05-01,365,1,30.4
+P0000215,Lisinopril,10.0,mg,daily,hypertension,2020-10-17,90,0,86.2
+P0000215,Jardiance,10.0,mg,daily,type2_diabetes,2019-08-02,180,1,58.3
+P0000215,Ozempic,0.5,mg,weekly,type2_diabetes,2018-11-20,90,1,84.5
+P0000215,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-11-15,30,1,96.4
+P0000215,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-05-19,60,0,100.0
+P0000215,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2018-07-13,180,1,58.6
+P0000215,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2019-07-23,30,1,60.8
+P0000215,Celecoxib,200.0,mg,daily,osteoarthritis,2019-12-25,180,1,64.9
+P0000216,Losartan,50.0,mg,daily,hypertension,2018-09-12,90,0,86.0
+P0000216,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-01-11,30,1,71.6
+P0000216,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-07-18,365,0,63.5
+P0000217,Lisinopril,10.0,mg,daily,hypertension,2020-12-01,90,1,52.4
+P0000217,Metoprolol,25.0,mg,twice daily,hypertension,2020-03-10,180,1,67.3
+P0000217,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-12-05,180,0,71.6
+P0000218,Losartan,50.0,mg,daily,hypertension,2019-10-05,365,1,74.1
+P0000218,Amlodipine,5.0,mg,daily,hypertension,2019-08-01,60,1,90.8
+P0000218,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-01-19,365,0,100.0
+P0000218,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-12-02,30,1,82.7
+P0000219,Amlodipine,5.0,mg,daily,hypertension,2019-05-20,180,1,68.9
+P0000219,Lisinopril,10.0,mg,daily,hypertension,2021-05-27,60,0,45.0
+P0000219,Fluticasone,110.0,mcg,twice daily,asthma,2020-01-09,30,1,72.3
+P0000220,Losartan,50.0,mg,daily,hypertension,2018-07-07,180,1,86.2
+P0000220,Buspirone,10.0,mg,twice daily,anxiety,2020-02-20,180,0,61.0
+P0000220,Sertraline,50.0,mg,daily,anxiety,2018-10-11,90,0,55.9
+P0000220,Tiotropium,18.0,mcg,daily,copd,2018-04-10,90,1,93.3
+P0000220,Albuterol,90.0,mcg,as needed,copd,2021-01-14,30,1,63.6
+P0000220,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2019-11-04,365,0,99.5
+P0000221,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-10-21,365,1,53.8
+P0000221,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-08-22,30,0,64.4
+P0000222,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-04-11,30,1,81.6
+P0000222,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-09-22,180,0,68.8
+P0000222,Albuterol,90.0,mcg,as needed,copd,2018-02-27,365,1,78.1
+P0000222,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2020-06-06,60,1,91.5
+P0000222,Celecoxib,200.0,mg,daily,osteoarthritis,2020-03-26,180,1,75.6
+P0000223,Metoprolol,25.0,mg,twice daily,hypertension,2018-12-04,365,1,88.6
+P0000223,Amlodipine,5.0,mg,daily,hypertension,2018-03-21,180,1,88.3
+P0000223,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-09-14,30,1,71.5
+P0000223,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-09-18,60,0,59.5
+P0000223,Fluoxetine,20.0,mg,daily,depression,2020-12-28,60,1,64.1
+P0000223,Levothyroxine,50.0,mcg,daily,hypothyroidism,2019-01-22,90,0,100.0
+P0000223,Albuterol,90.0,mcg,as needed,copd,2019-04-11,365,1,100.0
+P0000223,Tiotropium,18.0,mcg,daily,copd,2018-06-14,180,1,55.6
+P0000224,Lisinopril,10.0,mg,daily,hypertension,2019-08-04,90,0,90.3
+P0000224,Sertraline,50.0,mg,daily,depression,2019-05-27,90,1,98.7
+P0000224,Escitalopram,10.0,mg,daily,depression,2019-03-05,30,1,100.0
+P0000225,Metoprolol,25.0,mg,twice daily,hypertension,2018-03-06,90,1,42.3
+P0000225,Atorvastatin,20.0,mg,daily,hyperlipidemia,2021-01-10,60,1,83.9
+P0000225,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-03-08,180,0,72.4
+P0000225,Clopidogrel,75.0,mg,daily,coronary_artery_disease,2021-02-04,60,0,83.5
+P0000225,Sertraline,50.0,mg,daily,anxiety,2019-11-28,365,1,59.6
+P0000225,Buspirone,10.0,mg,twice daily,anxiety,2020-05-02,30,1,54.8
+P0000225,Albuterol,90.0,mcg,as needed,copd,2020-07-09,90,1,74.9
+P0000226,Lisinopril,10.0,mg,daily,hypertension,2019-08-15,60,1,100.0
+P0000226,Losartan,50.0,mg,daily,hypertension,2020-12-07,60,0,62.3
+P0000226,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-06-06,90,1,94.6
+P0000227,Lisinopril,10.0,mg,daily,hypertension,2018-08-01,30,0,98.9
+P0000227,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-05-07,60,1,100.0
+P0000227,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-05-07,365,1,100.0
+P0000227,Tiotropium,18.0,mcg,daily,copd,2021-06-14,365,0,78.9
+P0000227,Albuterol,90.0,mcg,as needed,copd,2019-06-27,90,1,60.4
+P0000228,Lisinopril,10.0,mg,daily,hypertension,2021-05-23,60,1,58.2
+P0000228,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-07-26,30,1,74.7
+P0000228,Atorvastatin,20.0,mg,daily,hyperlipidemia,2021-02-04,90,1,94.6
+P0000229,Lisinopril,10.0,mg,daily,hypertension,2020-10-11,60,1,76.6
+P0000229,Losartan,50.0,mg,daily,hypertension,2019-08-09,30,1,90.7
+P0000229,Glipizide,5.0,mg,daily,type2_diabetes,2019-04-30,365,1,100.0
+P0000229,Metformin,500.0,mg,twice daily,type2_diabetes,2019-04-27,180,1,90.0
+P0000229,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-09-06,90,0,100.0
+P0000229,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-11-28,180,1,93.9
+P0000229,Albuterol,90.0,mcg,as needed,asthma,2020-07-15,60,0,78.8
+P0000229,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2019-07-02,90,0,65.3
+P0000229,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2018-09-10,30,0,64.3
+P0000230,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-12-12,365,1,74.3
+P0000230,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-03-02,365,1,93.2
+P0000230,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2019-04-27,365,0,99.4
+P0000231,Losartan,50.0,mg,daily,hypertension,2021-02-27,180,1,82.5
+P0000231,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-12-25,60,0,72.9
+P0000231,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-06-23,90,0,51.4
+P0000232,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-04-21,90,1,86.8
+P0000232,Escitalopram,10.0,mg,daily,depression,2020-12-22,180,1,100.0
+P0000232,Sertraline,50.0,mg,daily,depression,2018-04-01,365,0,68.4
+P0000233,Levothyroxine,50.0,mcg,daily,hypothyroidism,2021-05-08,30,0,59.7
+P0000233,Fluticasone,110.0,mcg,twice daily,asthma,2020-09-07,30,0,61.0
+P0000233,Albuterol,90.0,mcg,as needed,asthma,2019-07-08,60,1,89.8
+P0000233,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2020-08-09,365,1,52.7
+P0000234,Jardiance,10.0,mg,daily,type2_diabetes,2018-03-14,60,1,50.5
+P0000234,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-11-11,90,0,60.5
+P0000234,Escitalopram,10.0,mg,daily,depression,2020-07-30,365,0,89.0
+P0000235,Losartan,50.0,mg,daily,hypertension,2019-06-10,30,0,79.4
+P0000235,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-10-29,90,1,75.2
+P0000235,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-07-05,90,0,42.4
+P0000235,Sertraline,50.0,mg,daily,anxiety,2019-05-08,90,0,85.5
+P0000236,Glipizide,5.0,mg,daily,type2_diabetes,2019-08-19,180,1,100.0
+P0000236,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2020-12-22,365,1,66.0
+P0000236,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2018-03-22,365,0,72.3
+P0000237,Losartan,50.0,mg,daily,hypertension,2019-04-14,90,0,99.5
+P0000237,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-08-17,30,0,63.0
+P0000237,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-11-25,180,0,79.3
+P0000237,Buspirone,10.0,mg,twice daily,anxiety,2018-12-27,30,1,77.7
+P0000237,Sertraline,50.0,mg,daily,anxiety,2019-06-05,90,1,100.0
+P0000237,Fluticasone,110.0,mcg,twice daily,asthma,2018-11-30,30,0,100.0
+P0000237,Albuterol,90.0,mcg,as needed,asthma,2018-10-20,90,1,96.2
+P0000238,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-06-04,60,0,81.9
+P0000238,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2020-01-31,90,0,77.4
+P0000239,Metoprolol,25.0,mg,twice daily,hypertension,2019-08-10,365,1,72.1
+P0000239,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-03-16,30,1,89.5
+P0000239,Levothyroxine,50.0,mcg,daily,hypothyroidism,2018-09-23,365,1,82.2
+P0000240,Losartan,50.0,mg,daily,hypertension,2018-07-31,90,1,67.4
+P0000240,Amlodipine,5.0,mg,daily,hypertension,2021-03-14,60,0,93.0
+P0000240,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-11-06,180,0,76.3
+P0000240,Warfarin,5.0,mg,daily,atrial_fibrillation,2019-04-18,180,0,100.0
+P0000240,Sertraline,50.0,mg,daily,anxiety,2018-05-31,60,0,84.1
+P0000240,Buspirone,10.0,mg,twice daily,anxiety,2020-03-25,180,1,100.0
+P0000241,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-09-12,60,0,58.6
+P0000241,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-06-12,180,0,72.3
+P0000241,Celecoxib,200.0,mg,daily,osteoarthritis,2019-03-06,90,0,68.6
+P0000241,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2020-10-12,60,1,65.4
+P0000242,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-01-30,30,1,83.8
+P0000242,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-01-12,90,1,82.2
+P0000242,Albuterol,90.0,mcg,as needed,asthma,2020-07-18,365,0,61.7
+P0000242,Fluticasone,110.0,mcg,twice daily,asthma,2020-04-17,60,1,61.3
+P0000242,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2020-02-16,90,1,100.0
+P0000243,Amlodipine,5.0,mg,daily,hypertension,2020-06-02,180,1,72.3
+P0000243,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-05-16,30,1,100.0
+P0000244,Aspirin,81.0,mg,daily,coronary_artery_disease,2019-06-12,180,0,87.3
+P0000244,Levothyroxine,50.0,mcg,daily,hypothyroidism,2019-07-06,90,1,48.7
+P0000244,Fluticasone,110.0,mcg,twice daily,asthma,2020-02-21,90,1,49.3
+P0000245,Losartan,50.0,mg,daily,hypertension,2018-03-29,365,0,78.0
+P0000245,Glipizide,5.0,mg,daily,type2_diabetes,2018-04-30,90,0,100.0
+P0000245,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-06-12,365,1,100.0
+P0000245,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2018-03-04,90,0,61.9
+P0000246,Lisinopril,10.0,mg,daily,hypertension,2021-01-22,90,0,88.7
+P0000246,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-06-14,90,0,68.0
+P0000246,Apixaban,5.0,mg,twice daily,atrial_fibrillation,2019-01-14,365,1,56.3
+P0000246,Albuterol,90.0,mcg,as needed,asthma,2018-09-01,365,0,80.6
+P0000247,Metoprolol,25.0,mg,twice daily,hypertension,2020-10-17,180,1,95.9
+P0000247,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-02-17,180,1,99.4
+P0000247,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-12-09,365,0,62.1
+P0000248,Simvastatin,40.0,mg,daily,hyperlipidemia,2018-07-08,180,0,77.8
+P0000248,Atorvastatin,20.0,mg,daily,hyperlipidemia,2020-03-03,180,1,98.5
+P0000250,Losartan,50.0,mg,daily,hypertension,2020-11-05,365,1,81.5
+P0000250,Jardiance,10.0,mg,daily,type2_diabetes,2020-04-22,90,0,77.9
+P0000250,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-05-19,365,1,84.5
+P0000251,Amlodipine,5.0,mg,daily,hypertension,2020-03-11,90,0,72.0
+P0000251,Lisinopril,10.0,mg,daily,hypertension,2021-05-30,60,1,95.6
+P0000251,Simvastatin,40.0,mg,daily,hyperlipidemia,2021-06-21,90,1,73.3
+P0000251,Fluticasone,110.0,mcg,twice daily,asthma,2018-01-28,90,1,81.4
+P0000252,Losartan,50.0,mg,daily,hypertension,2020-09-22,180,1,68.5
+P0000252,Simvastatin,40.0,mg,daily,hyperlipidemia,2019-08-19,90,1,49.4
+P0000252,Levothyroxine,50.0,mcg,daily,hypothyroidism,2018-01-13,180,0,100.0
+P0000252,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2021-05-03,90,1,49.9
+P0000252,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2018-11-04,365,0,95.4
+P0000252,Celecoxib,200.0,mg,daily,osteoarthritis,2021-02-14,30,0,100.0
+P0000253,Amlodipine,5.0,mg,daily,hypertension,2020-10-08,90,0,60.3
+P0000253,Metoprolol,25.0,mg,twice daily,hypertension,2020-09-14,30,1,58.5
+P0000253,Buspirone,10.0,mg,twice daily,anxiety,2020-02-05,365,1,75.6
+P0000253,Sertraline,50.0,mg,daily,anxiety,2019-03-17,180,0,84.2
+P0000253,Albuterol,90.0,mcg,as needed,copd,2021-02-17,180,1,71.4
+P0000253,Tiotropium,18.0,mcg,daily,copd,2019-04-22,90,1,100.0
+P0000254,Amlodipine,5.0,mg,daily,hypertension,2018-09-04,60,1,53.0
+P0000254,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-10-06,365,0,100.0
+P0000254,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2018-04-16,90,1,97.9
+P0000255,Losartan,50.0,mg,daily,hypertension,2020-10-23,90,0,100.0
+P0000255,Amlodipine,5.0,mg,daily,hypertension,2021-05-10,30,0,56.2
+P0000255,Clopidogrel,75.0,mg,daily,coronary_artery_disease,2019-07-19,30,1,81.4
+P0000255,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2019-02-21,60,0,49.2
+P0000255,Buspirone,10.0,mg,twice daily,anxiety,2021-07-01,30,1,78.6
+P0000255,Sertraline,50.0,mg,daily,anxiety,2020-04-13,180,1,65.2
+P0000256,Atorvastatin,20.0,mg,daily,hyperlipidemia,2018-08-07,90,0,100.0
+P0000256,Warfarin,5.0,mg,daily,atrial_fibrillation,2019-07-17,180,1,49.1
+P0000257,Lisinopril,10.0,mg,daily,hypertension,2018-11-17,90,0,42.3
+P0000257,Amlodipine,5.0,mg,daily,hypertension,2019-12-22,60,1,92.3
+P0000257,Sertraline,50.0,mg,daily,anxiety,2018-06-30,90,1,62.8
+P0000257,Buspirone,10.0,mg,twice daily,anxiety,2020-02-17,90,1,69.3
+P0000257,Celecoxib,200.0,mg,daily,osteoarthritis,2018-02-21,60,1,65.9
+P0000257,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2018-10-17,365,1,80.4
+P0000258,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-02-18,180,1,91.1
+P0000258,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2019-03-05,90,1,73.0
+P0000258,Celecoxib,200.0,mg,daily,osteoarthritis,2018-08-09,30,1,84.1
+P0000259,Losartan,50.0,mg,daily,hypertension,2019-07-15,90,1,59.5
+P0000259,Lisinopril,10.0,mg,daily,hypertension,2020-02-08,90,1,73.8
+P0000260,Fluticasone,110.0,mcg,twice daily,asthma,2020-08-06,90,1,75.3
+P0000261,Amlodipine,5.0,mg,daily,hypertension,2018-03-01,180,1,100.0
+P0000261,Lisinopril,10.0,mg,daily,hypertension,2020-03-05,180,1,71.8
+P0000261,Simvastatin,40.0,mg,daily,hyperlipidemia,2020-12-06,90,1,100.0
+P0000261,Atorvastatin,20.0,mg,daily,hyperlipidemia,2019-11-23,365,1,87.8
+P0000262,Losartan,50.0,mg,daily,hypertension,2021-06-21,30,1,84.8
+P0000262,Metoprolol,25.0,mg,twice daily,hypertension,2020-02-13,180,1,85.9
+P0000262,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-09-09,90,0,83.8
+P0000263,Metoprolol,25.0,mg,twice daily,hypertension,2019-03-14,90,1,100.0
+P0000263,Amlodipine,5.0,mg,daily,hypertension,2018-05-25,365,0,67.1
+P0000263,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-05-19,30,1,77.5
+P0000264,Metoprolol,25.0,mg,twice daily,hypertension,2018-07-05,60,1,49.8
+P0000264,Clopidogrel,75.0,mg,daily,coronary_artery_disease,2019-02-08,180,1,66.3
+P0000264,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2021-06-22,90,1,54.6
+P0000268,Lisinopril,10.0,mg,daily,hypertension,2020-11-04,180,1,99.6
+P0000269,Metoprolol,25.0,mg,twice daily,hypertension,2020-07-07,30,1,67.2
+P0000269,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2020-11-11,365,1,66.6
+P0000269,Albuterol,90.0,mcg,as needed,asthma,2018-03-07,180,0,100.0
+P0000271,Atorvastatin,20.0,mg,daily,hyperlipidemia,2021-02-13,180,1,83.3
+P0000271,Aspirin,81.0,mg,daily,coronary_artery_disease,2018-09-21,30,1,56.6
+P0000271,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2019-08-20,365,1,100.0
+P0000271,Sertraline,50.0,mg,daily,anxiety,2018-03-02,60,1,57.7
+P0000271,Buspirone,10.0,mg,twice daily,anxiety,2019-07-27,60,1,100.0
+P0000272,Lisinopril,10.0,mg,daily,hypertension,2018-02-14,180,1,100.0
+P0000272,Amlodipine,5.0,mg,daily,hypertension,2018-10-17,90,1,92.2
+P0000272,Sertraline,50.0,mg,daily,depression,2020-12-15,90,1,73.2
+P0000272,Escitalopram,10.0,mg,daily,depression,2020-12-06,365,1,89.0
+P0000272,Albuterol,90.0,mcg,as needed,copd,2018-11-24,30,1,49.6
+P0000272,Tiotropium,18.0,mcg,daily,copd,2020-02-22,60,1,61.1
+P0000273,Levothyroxine,50.0,mcg,daily,hypothyroidism,2018-01-12,30,1,100.0
+P0000273,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2018-05-04,90,0,73.1
+P0000273,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2018-12-23,60,1,59.7
+P0000274,Amlodipine,5.0,mg,daily,hypertension,2021-04-01,365,1,100.0
+P0000274,Losartan,50.0,mg,daily,hypertension,2021-05-25,90,0,31.7
+P0000274,Glipizide,5.0,mg,daily,type2_diabetes,2018-06-22,180,1,97.1
+P0000275,Lisinopril,10.0,mg,daily,hypertension,2020-08-11,60,0,98.4
+P0000275,Losartan,50.0,mg,daily,hypertension,2018-06-10,30,0,75.5
+P0000275,Aspirin,81.0,mg,daily,coronary_artery_disease,2021-03-22,365,1,77.6
+P0000275,Nitroglycerin,0.4,mg,as needed,coronary_artery_disease,2018-05-09,90,0,79.0
+P0000275,Fluoxetine,20.0,mg,daily,depression,2019-03-01,180,0,80.0
+P0000275,Sertraline,50.0,mg,daily,depression,2018-01-29,30,1,67.5
+P0000276,Metoprolol,25.0,mg,twice daily,hypertension,2021-04-30,365,1,57.3
+P0000276,Rosuvastatin,10.0,mg,daily,hyperlipidemia,2019-09-19,90,1,66.0
+P0000276,Erythropoietin,4000.0,units,weekly,chronic_kidney_disease,2019-05-23,180,1,56.4
+P0000276,Lisinopril,10.0,mg,daily,chronic_kidney_disease,2020-02-22,180,0,90.3
+P0000276,Celecoxib,200.0,mg,daily,osteoarthritis,2021-05-02,30,1,89.9
+P0000276,Ibuprofen,400.0,mg,three times daily,osteoarthritis,2018-03-22,180,1,61.0
