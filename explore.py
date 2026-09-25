@@ -9,3 +9,12 @@ df.head()
 
 # %%
 df.info()
+
+# %%
+df.describe()
+
+# %%
+df.isnull().sum()
+
+# %%
+df.dtypes
