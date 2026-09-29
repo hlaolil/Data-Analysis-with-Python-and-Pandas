@@ -58,8 +58,8 @@ filtering, sorting and aggregating the data.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
-* [Web Site Name](https://pandas.pydata.org/)
+* [Data Analysis with python and pandas tutorial](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+* [Pandas Official Documentation](https://pandas.pydata.org/)
 
 # Future Work
 
