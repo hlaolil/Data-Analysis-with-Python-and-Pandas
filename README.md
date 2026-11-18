@@ -66,3 +66,7 @@ filtering, sorting and aggregating the data.
 Here is a list of things that I need to fix, improve, and add in the future.
 * Install and use matplotlib 3.11.2 for the graphs
 
+
+# Bivocational Ministry Research Extension
+
+The [`ministry/`](ministry/README.md) folder adapts these techniques to a research survey of bivocational pastors. It covers work load, burnout, family strain, sense of calling, church vitality, intent to leave and open-ended themes. Run `python ministry/analysis.py`, or pass `--data your_survey.csv` to analyse your own data.

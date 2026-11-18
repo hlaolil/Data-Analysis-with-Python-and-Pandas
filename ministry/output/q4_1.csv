@@ -1,0 +1,5 @@
+hours_band,n,mean_burnout,mean_family_strain,pct_considering_leaving
+<50 h,76,2.58,2.21,11.84
+50-59 h,109,2.99,2.56,19.27
+60-69 h,94,3.34,2.62,26.6
+70+ h,41,3.78,2.75,41.46
