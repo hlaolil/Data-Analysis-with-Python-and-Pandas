@@ -1,0 +1,9 @@
+,total_work_hours,ministry_hours_week,secular_hours_week,children_at_home,burnout,family_strain,calling,ministry_satisfaction
+total_work_hours,1.0,-0.08,0.74,0.03,0.5,0.23,-0.2,-0.35
+ministry_hours_week,-0.08,1.0,-0.67,0.1,-0.04,-0.01,0.03,0.07
+secular_hours_week,0.74,-0.67,1.0,-0.09,0.38,0.16,-0.15,-0.3
+children_at_home,0.03,0.1,-0.09,1.0,-0.03,0.34,0.04,-0.02
+burnout,0.5,-0.04,0.38,-0.03,1.0,0.36,-0.35,-0.48
+family_strain,0.23,-0.01,0.16,0.34,0.36,1.0,-0.15,-0.26
+calling,-0.2,0.03,-0.15,0.04,-0.35,-0.15,1.0,0.17
+ministry_satisfaction,-0.35,0.07,-0.3,-0.02,-0.48,-0.26,0.17,1.0
